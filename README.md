@@ -13,7 +13,7 @@ What
 
 The initial beta release consists of four major topics
 
-* Linear Regression
+* Linear Regression(simple linear,multiple linear,polynomial linear regression)
 * Logistic Regression
 * Random Forests
 * K-Means Clustering
